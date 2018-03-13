@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  BankAccount1.swift
 //  MyBankAccount
 //
 //  Created by Parikh Dhruvin S. on 3/13/18.
@@ -7,5 +7,3 @@
 //
 
 import Foundation
-print("Hello, World!")
-
